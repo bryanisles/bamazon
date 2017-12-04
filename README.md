@@ -12,3 +12,4 @@
  - Connect to database containing the the bamazon database with products table
  - install necessary node modules using 'npm install'
  - run application using 'node bamazonCustomer.js'
+ - Enjoy
