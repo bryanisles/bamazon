@@ -1,0 +1,4 @@
+node_modules/
+package-lock.json
+amazon_products.csv
+table_products.sql
